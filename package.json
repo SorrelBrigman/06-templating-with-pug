@@ -1,0 +1,20 @@
+{
+  "name": "06-templating-with-pug",
+  "version": "1.0.0",
+  "description": "class exercise introducing templating with pug",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SorrelBrigman/06-templating-with-pug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SorrelBrigman/06-templating-with-pug/issues"
+  },
+  "homepage": "https://github.com/SorrelBrigman/06-templating-with-pug#readme"
+}
