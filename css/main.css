@@ -1,7 +1,13 @@
-.nav-bar {
+a {
   display: none;
 }
 
 .active {
   display: inline-block;
+  padding: 2em;
+}
+
+
+body {
+  background-color: pink;
 }
