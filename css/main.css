@@ -1,0 +1,7 @@
+.nav-bar {
+  display: none;
+}
+
+.active {
+  display: inline-block;
+}
