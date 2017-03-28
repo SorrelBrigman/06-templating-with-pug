@@ -1,9 +1,9 @@
-include nav.pug
-include stylesheets.pug
+extends layout.pug
 
-h4 Our selection
+block content
+  h4 Our selection
 
-.breads
-  ul
-    each bread in bakeryGoods
-      li #{bread.name} $#{bread.price}
+  .breads
+    ul
+      each bread in bakeryGoods
+        li #{bread.name} $#{bread.price}
