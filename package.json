@@ -4,7 +4,7 @@
   "description": "class exercise introducing templating with pug",
   "main": "index.js",
   "engines": {
-    "node" : "7"
+    "node": "7"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/SorrelBrigman/06-templating-with-pug/issues"
   },
-  "homepage": "https://github.com/SorrelBrigman/06-templating-with-pug#readme"
+  "homepage": "https://github.com/SorrelBrigman/06-templating-with-pug#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
